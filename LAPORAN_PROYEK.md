@@ -2,7 +2,7 @@
 
 ## Ringkasan
 
-Ruang adalah prototipe aplikasi e-commerce satu halaman untuk katalog produk, tas belanja, dan simulasi checkout. Implementasi merujuk pada satu modul proyek, [`BAB II Frontend Programming State Management.pdf`](./docs/BAB%20II%20Frontend%20Programming%20State%20Management.pdf), khususnya bagian React + Vite, Tailwind CSS, React Router, komponen halaman, `useState`, dan Context keranjang.
+Ruang adalah prototipe aplikasi e-commerce satu halaman untuk katalog produk, tas belanja, dan simulasi checkout. Implementasi merujuk pada satu modul lokal `docs/BAB II Frontend Programming State Management.pdf`, khususnya bagian React + Vite, Tailwind CSS, React Router, komponen halaman, `useState`, dan Context keranjang. PDF referensi tidak disertakan dalam repository publik.
 
 ## Tech stack
 
@@ -52,6 +52,7 @@ npm run preview
 ## Publikasi
 
 - **GitHub Repository URL:** <https://github.com/haqqiprawira-png/ruang-ecommerce>
-- **Publish URL:** <https://haqqiprawira-png.github.io/ruang-ecommerce/> (menunggu keberhasilan workflow publikasi)
+- **Publish URL:** <https://haqqiprawira-png.github.io/ruang-ecommerce/>
+- **Workflow publikasi:** <https://github.com/haqqiprawira-png/ruang-ecommerce/actions/runs/37086223771> (berhasil)
 
 Workflow GitHub Actions untuk build dan publikasi sudah disiapkan di `.github/workflows/deploy.yml`.

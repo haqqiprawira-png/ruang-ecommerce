@@ -1,6 +1,6 @@
 # Ruang — E-Commerce Prototype
 
-Prototipe single-page e-commerce menggunakan React, Vite, Tailwind CSS, dan React Router. Struktur dan pola komponen, halaman, props, state lokal, serta Context keranjang mengikuti modul yang disimpan di [`docs/BAB II Frontend Programming State Management.pdf`](./docs/BAB%20II%20Frontend%20Programming%20State%20Management.pdf).
+Prototipe single-page e-commerce menggunakan React, Vite, Tailwind CSS, dan React Router. Struktur dan pola komponen, halaman, props, state lokal, serta Context keranjang mengikuti modul lokal `docs/BAB II Frontend Programming State Management.pdf`. PDF referensi tidak disertakan dalam repository.
 
 ## Fitur
 
@@ -32,7 +32,7 @@ npm run preview
 Workflow GitHub Actions di `.github/workflows/deploy.yml` membangun aplikasi dan menerbitkannya ke GitHub Pages pada setiap push ke branch `main`.
 
 - GitHub Repository URL: <https://github.com/haqqiprawira-png/ruang-ecommerce>
-- Publish URL: <https://haqqiprawira-png.github.io/ruang-ecommerce/> (setelah deployment GitHub Pages berhasil)
+- Publish URL: <https://haqqiprawira-png.github.io/ruang-ecommerce/>
 
 ## Laporan dan bukti
 
