@@ -51,7 +51,7 @@ npm run preview
 
 ## Publikasi
 
-- **GitHub Repository URL:** belum tersedia (repository belum dibuat).
-- **Publish URL:** belum tersedia (menunggu publikasi ke GitHub Pages).
+- **GitHub Repository URL:** <https://github.com/haqqiprawira-png/ruang-ecommerce>
+- **Publish URL:** <https://haqqiprawira-png.github.io/ruang-ecommerce/> (menunggu keberhasilan workflow publikasi)
 
-Workflow GitHub Actions untuk build dan publikasi sudah disiapkan di `.github/workflows/deploy.yml`. Aktifkan GitHub Pages menggunakan sumber **GitHub Actions** setelah source code diunggah.
+Workflow GitHub Actions untuk build dan publikasi sudah disiapkan di `.github/workflows/deploy.yml`.

@@ -29,10 +29,10 @@ npm run preview
 
 ## Deployment
 
-Workflow GitHub Actions di `.github/workflows/deploy.yml` membangun aplikasi dan menerbitkannya ke GitHub Pages pada setiap push ke branch `main`. Aktifkan GitHub Pages di pengaturan repository dengan sumber **GitHub Actions**.
+Workflow GitHub Actions di `.github/workflows/deploy.yml` membangun aplikasi dan menerbitkannya ke GitHub Pages pada setiap push ke branch `main`.
 
-- GitHub Repository URL: belum dibuat.
-- Publish URL: tersedia setelah workflow GitHub Pages berhasil dijalankan.
+- GitHub Repository URL: <https://github.com/haqqiprawira-png/ruang-ecommerce>
+- Publish URL: <https://haqqiprawira-png.github.io/ruang-ecommerce/> (setelah deployment GitHub Pages berhasil)
 
 ## Laporan dan bukti
 
