@@ -5,6 +5,3 @@ dist/
 .env.*
 !.env.example
 
-# The course module is a local reference and is not part of the source upload.
-/BAB II Frontend Programming State Management.pdf
-/docs/BAB II Frontend Programming State Management.pdf
